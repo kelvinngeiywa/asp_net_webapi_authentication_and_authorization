@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Asp_net_auth")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ced09ea3210676eea84422da496811ab0efba275")]
 [assembly: System.Reflection.AssemblyProductAttribute("Asp_net_auth")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Asp_net_auth")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
